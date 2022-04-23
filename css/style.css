@@ -1,0 +1,218 @@
+/* icyeba hederi */
+.heder {
+      padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    background-color: #A5A2F6;
+    width: 100%;
+}
+
+.navigacia {
+    width: 581px;
+}
+.ul-li {
+    display: flex;
+    text-transform: uppercase;
+    font-size: 20px;
+    justify-content: space-between;
+    font-family: 'Lato';
+}
+.bari {
+    display: none;
+}
+.bar-size {
+    width: 30px;
+}
+/* pirveli seqcis icyeva */
+.satauri {
+    width: 195px;
+    display: flex;
+    text-transform: capitalize;
+    font-size: 32px;
+    justify-content: space-between;
+}
+
+
+.conteiner1 {
+    width: 1250px;
+    margin: 150px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.paragraf {
+    width: 600px;
+}
+.paragraf1 {
+    width: 600px;
+    font-size: 68px;
+    line-height: 109px;
+    font-family: 'Lato';
+   
+}
+.paragraf2 {
+    width: 650px;
+    font-size: 22px;
+
+}
+.imag-size {
+    width: 650px;
+}
+
+.iconi {
+    width: 260px;
+    height: 76px;
+    background: #3D37F1;
+    margin-top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 38px;
+}
+h4 {
+    color: #fff;
+    font-size: 23px;
+}
+/* meore ceqciis konteineri */
+.conteiner2 {
+    width: 1100px;
+    margin: 30px auto;
+}
+.sekcia2-parag {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Roboto';
+}
+.satauri2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    margin-top: 17px;
+    margin-bottom: 21px;
+}
+
+/* meore seqciaSi patara blokebis gamaertianebeli divi */
+.bloki {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.blok-1 {
+    width: 320px;
+    height: 400px;
+    background: #FBBA77;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+   
+}
+
+.icon-size {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 57px;
+    margin-top: 57px;
+  
+}
+.paragraf3 {
+    width: 250px;
+    margin-bottom: 23px;
+    margin-top: 13px;
+    text-shadow: 1px 2px 10px;
+    font-family: 'Roboto';
+    text-align: center;
+}
+/* blokshi datanili linkze gadasasvleli xilaki */
+.input {
+    width: 120px;
+    height: 40px;
+    background: #fff;
+    border-radius: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid #fff;
+    box-shadow: 15px 10px 40px 5px;
+    font-family: 'Roboto';
+}
+
+/* ferebi calkeuli blokebistvis */
+.blak {
+    color: black;
+}
+.wite {
+    color: #fff;
+}
+.color2 {
+    background: #41EAE3;
+}
+.color3 {
+    background: #69529F;
+}
+.color4 {
+    background: #4386D2;
+}
+.color5 {
+    background: #A5A2F6;
+}
+.color6 {
+    background: #FF8088;
+}
+
+/* hover animaciebi */
+a :hover .blok-1{
+
+background: #fff;
+} 
+li :hover {
+    font-size: 40px;
+    color: rgb(143, 9, 92);
+}
+a :hover{
+   color: rgba(44, 235, 60, 0.945);
+}
+/* fontebis damateba */
+.font-popp {
+    font-family: 'Poppins', sans-serif;
+    font-size: 23px;
+    color: #fff;
+}
+.leto {
+    font-family: 'Lato';
+}
+h3 {
+    font-family: 'Lato';
+}
+.font-icon {
+    margin: 30px;
+    display: flex;
+    justify-content: end;
+    margin-right: 40px;
+}
+.fa-facebook-square {
+    color: #3D37F1;
+
+}
+.fa-youtube {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: red;
+}
+.fa-twitter-square {
+    color: #41EAE3;
+}
+.fa-brands {
+    font-size: 30px;
+}
+.font-icon :hover {
+font-size: 40px;
+}

@@ -1,0 +1,101 @@
+@media (max-width: 1024px){
+    .paragraf {
+        width: 500px;
+    }
+    .paragraf1 {
+        width: 350px;
+        line-height: 50px;
+        font-size: 42px;
+    }
+    .navigacia {
+        width: 450px;
+    }
+    .paragraf2 {
+        width: 350px;
+        font-size: 18px;
+        color: green;
+    }
+    .imag-size {
+        width: 350px;
+    }
+    .conteiner1 {
+        width: 770px;
+    }
+    .iconi {
+        width: 260px;
+    height: 50px;
+    margin-top: 40px;
+    }
+    .csatauri2 {
+        width: 20px auto;
+    }
+    .conteiner2 {
+        width: 770px;
+    }
+    .bloki {
+        margin: 20px auto;
+        width: 700px;
+    }
+    .blok-1 {
+        width: 200px;
+        height: 300px;
+
+        
+       
+    }
+    
+    .icon-size {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 40px;
+        margin-top: 40px;
+      
+    }
+    .paragraf3 {
+        width: 160px;
+        margin-bottom: 23px;
+        margin-top: 13px;
+        text-shadow: 1px 2px 10px;
+        font-family: 'Roboto';
+    }
+    /* blokshi datanili linkze gadasasvleli xilaki */
+    .input {
+        width: 100px;
+        height: 20px;
+
+        border-radius: 23px;
+        border: 3px solid #fff;
+        box-shadow: 7px 5px 20px 3px;
+        font-family: 'Roboto';
+    }
+}
+@media (max-width: 770px){
+    .navigacia {
+        display: none;
+    }
+    .bari {
+        display: block;
+    }
+    .conteiner1 {
+        flex-direction: column;
+        width: 300px;
+    }
+    .paragraf {
+     text-align: center;   
+    }
+    .imag {
+        margin-top: 30px;
+    }
+    .conteiner2 {
+        width: 300px;
+    }
+    .sekcia2-parag {
+        width: 300px;
+    }
+    .bloki {
+        flex-direction: column;
+    }
+    .blok-1 {
+        margin-bottom: 10px;
+    }
+}
